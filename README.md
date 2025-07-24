@@ -47,9 +47,9 @@ My core is C# and .NET — but my mindset is strategy.
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devaatech&show_icons=true&theme=tokyonight&hide=prs" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devaatech&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaatech&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bawangx&show_icons=true&theme=tokyonight&hide=prs" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bawangx&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bawangx&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
