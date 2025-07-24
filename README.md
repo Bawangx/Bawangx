@@ -66,11 +66,13 @@ Focused on clean architecture and silent, effective execution.
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bawangx&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Bawangx&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bawangx&layout=compact&theme=tokyonight" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bawangx&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bawangx&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bawangx&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ---
 
