@@ -1,38 +1,68 @@
-### 👋 Hi, I'm Devaa — a Strategic Software Engineer
+<h2 align="center">🧠 Devaa — .NET Developer (C#, ASP.NET)</h2>
+<p align="center">
+  <i>INTJ-A | System Thinker | Backend Architect | Silent Executor</i>
+</p>
 
-I design and develop scalable systems with precision, logic, and clarity.
-
-- 🔭 Currently working on **.NET (ASP.NET MVC, Razor Pages)** and **C# backend**
-- ⚙️ Tools I use: Visual Studio, SQL Server, Git, GitHub Actions
-- 📚 Learning roadmap: Clean Architecture, Domain-Driven Design, Stripe Integration
-- 🧠 MBTI: INTJ | Enneagram: 5w6 | Temperament: Choleric-Melancholic
-- 🛡️ Focus: Secure code, optimized queries, and clean logic flow
-
----
-
-### 🚀 Projects Worth Noting
-
-| Project | Stack | Description |
-|--------|-------|-------------|
-| **BulkyBook** | ASP.NET MVC + EF Core | Full eCommerce system with admin dashboard, role management, Stripe payments |
-| **VaultTracker** | .NET 8 + Blazor | Personal vault for notes, system blueprints, and strategic checklists |
-| **CodeAnalyzerSharp** | C# Console + Roslyn | Lightweight CLI tool for scanning code smells in C# projects |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devaatech&label=Profile+Views&color=0e75b6&style=flat" alt="devaatech" />
+</p>
 
 ---
 
-### 🧰 Tech Stack
+### 🧭 About Me
+I build backend systems with logic, silence, and precision.  
+My core is C# and .NET — but my mindset is strategy.
 
-`C#` `ASP.NET MVC` `Entity Framework Core` `SQL Server` `JavaScript`  
-`Bootstrap` `Razor Pages` `Stripe API` `Git` `GitHub` `Postman`
-
----
-
-### 📫 How to reach me
-- Email: `devawpxx@gmail.com`
-- Discord: `devawpxx`
-- LinkedIn: linkedin.com/in/devawpxx
+- 💡 Focused on enterprise-grade backend development
+- ⚙️ Tech: ASP.NET Core MVC, EF Core, SQL Server, Stripe API
+- 🧠 MBTI: INTJ-A | Temperament: Choleric-Melancholic
+- 🔐 Passion for security, scalability, and clean architecture
+- 🎯 "No noise. Just systems that work."
 
 ---
 
-### 🧭 Motto
-> *"Build systems like a tactician. Execute them like a strategist."*
+### 🛠️ Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=flat&logo=.net)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-1FB6FF?style=flat&logo=sendgrid&logoColor=white)
+
+---
+
+### 📦 Highlight Projects
+
+| Project       | Stack                    | Description                                              |
+|---------------|--------------------------|----------------------------------------------------------|
+| **BulkyBook** | ASP.NET MVC + EF Core    | Full eCommerce platform with role-based auth & Stripe    |
+| *More soon...*| -                        | Strategic systems coming — stay tuned.                   |
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devaatech&show_icons=true&theme=tokyonight&hide=prs" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devaatech&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaatech&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devawpxx)  
+[![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail)](mailto:devawpxx@gmail.com)  
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/devawpxx)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/devawpxx)
+
+---
+
+### 🧠 Quote
+
+> "Design systems. Master silence. Let your architecture do the talking."
