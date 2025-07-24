@@ -3,7 +3,7 @@
 
 ---
 
-<p>INTJ-A | Hard Work | Backend Developer</p>
+<p>Hard Work | Backend Developer</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Bawangx&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -17,8 +17,7 @@ Backend Developer Passionate About Building Scalable And Secure Systems Using C#
 Focused On Clean Architecture, Silent And Effective Execution.
 
 - 💡 **Specialization :** Enterprise Backend Development  
-- ⚙️ **Stack :** ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API  
-- 🧠 **Personality :** INTJ-A | Enneagram 5w6 | Choleric–Melancholic  
+- ⚙️ **Stack :** ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API 
 - 🤝 **Interpersonal :** Problem Solver, Fast Learner, Critical Thinker, Responsible, Collaborative  
 - 🔐 **Passion :** Security, Scalability, and Clean Code  
 - 🎯 **Motto :** "Silent Execution. Reliable Systems."
