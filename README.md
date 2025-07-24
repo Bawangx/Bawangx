@@ -1,14 +1,13 @@
 <div align="center">
 
-### <h2> .NET Developer (C#, ASP.NET) </h2>
-
-<br/><br/>
-
+<h2> .NET Developer (C#, ASP.NET) </h2>
 <p><i>INTJ-A | System Thinker | Backend Architect | Silent Executor</i></p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Bawangx&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+<br/>
 
 ---
 
