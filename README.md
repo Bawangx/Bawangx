@@ -1,5 +1,5 @@
 <div align="center">
-**.NET Developer (C#, ASP.NET)**
+<h1>.NET Developer (C#, ASP.NET)</h1>
 
 ---
 
