@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devaatech&label=Profile+Views&color=0e75b6&style=flat" alt="devaatech" />
+  <img src="https://komarev.com/ghpvc/?username=Bawangx&label=Profile+Views&color=0e75b6&style=flat" alt="Bawangx" />
 </p>
 
 ---
@@ -14,7 +14,7 @@ I build backend systems with logic, silence, and precision.
 My core is C# and .NET — but my mindset is strategy.
 
 - 💡 Focused on enterprise-grade backend development
-- ⚙️ Tech: ASP.NET Core MVC, EF Core, SQL Server, Stripe API
+- ⚙️ Tech: ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API
 - 🧠 MBTI: INTJ-A | Temperament: Choleric-Melancholic
 - 🔐 Passion for security, scalability, and clean architecture
 - 🎯 "No noise. Just systems that work."
@@ -40,8 +40,8 @@ My core is C# and .NET — but my mindset is strategy.
 
 | Project       | Stack                    | Description                                              |
 |---------------|--------------------------|----------------------------------------------------------|
-| **BulkyBook** | ASP.NET MVC + EF Core    | Full eCommerce platform with role-based auth & Stripe    |
-| *More soon...*| -                        | Strategic systems coming — stay tuned.                   |
+| **BulkyBook** | ASP.NET MVC + EF Core    | Full eCommerce platform with role-based auth & Stripe API |
+| *More soon...*| -                        | More strategic systems underway — stay tuned.            |
 
 ---
 
@@ -59,7 +59,7 @@ My core is C# and .NET — but my mindset is strategy.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devawpxx)  
 [![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail)](mailto:devawpxx@gmail.com)  
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/devawpxx)  
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id-or-invite)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/devawpxx)
 
 ---
