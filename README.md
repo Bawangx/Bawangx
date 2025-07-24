@@ -3,7 +3,7 @@
 
 ---
 
-<p><i>INTJ-A | System Thinker | Backend Architect | Silent Executor</i></p>
+<p>INTJ-A | Hard Work | Backend Developer</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Bawangx&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -13,15 +13,15 @@
 
 ### 🧭 About Me
 
-Backend developer passionate about building scalable and secure systems using C# and .NET.<br/>
-Focused on clean architecture and silent, effective execution.
+Backend Developer Passionate About Building Scalable And Secure Systems Using C# And .NET.<br/>
+Focused On Clean Architecture And Silent, Effective Execution.
 
 - 💡 **Specialization :** Enterprise Backend Development  
 - ⚙️ **Stack :** ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API  
 - 🧠 **Personality :** INTJ-A | Enneagram 5w6 | Choleric–Melancholic  
 - 🤝 **Interpersonal :** Problem Solver, Fast Learner, Critical Thinker, Responsible, Collaborative  
 - 🔐 **Passion :** Security, Scalability, and Clean Code  
-- 🎯 **Motto :** _"Silent Execution. Reliable Systems."_
+- 🎯 **Motto :** "Silent Execution. Reliable Systems."
 
 ---
 
@@ -54,12 +54,12 @@ Focused on clean architecture and silent, effective execution.
     <tr>
       <td><b>BulkyBook Web</b></td>
       <td>ASP.NET MVC, EF Core</td>
-      <td>Full-featured e-commerce app with role-based auth & Stripe integration</td>
+      <td>Full-Featured E-Commerce App With Role-Based Auth & Stripe Integration</td>
     </tr>
     <tr>
-      <td><i>More coming soon</i></td>
+      <td>More Coming Soon</td>
       <td>—</td>
-      <td>Several projects currently under development</td>
+      <td>Several Projects Currently Under Development</td>
     </tr>
   </tbody>
 </table>
@@ -88,6 +88,6 @@ Focused on clean architecture and silent, effective execution.
 
 ### 🧠 Quote
 
-> _"Execute silently. Let your work speak."_
+"Execute Silently. Let Your Work Speak."
 
 </div>
