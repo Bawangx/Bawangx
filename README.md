@@ -3,7 +3,7 @@
 
 ---
 
-<p>Hard Work | Backend Developer</p>
+<p>Web Developer | Backend Developer</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Bawangx&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
