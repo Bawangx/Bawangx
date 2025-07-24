@@ -1,24 +1,29 @@
 <div align="center">
 
-<h2>🧠 .NET Developer (C#, ASP.NET)</h2>
-<p><i>INTJ-A | System Thinker | Backend Architect</i></p>
+<h2>.NET Developer (C#, ASP.NET)</h2>
+<p><i>INTJ-A | System Thinker | Backend Architect | Silent Executor</i></p>
+
+---
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Bawangx&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+</div>
+
 ---
 
 ### 🧭 About Me
-Backend Developer Passionate About Building Scalable, Secure Systems Using C# And .NET.  
-Focused On Clean Architecture And Silent, Effective Execution..
 
-💡 Specializing In Enterprise Backend Development  
-⚙️ Technologies : ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API  
-🧠 Personality : INTJ-A | Enneagram : 5w6 | Temperament : Choleric-Melancholic
-🎯 Interpersonal : Problem Solver, Fast Learner, Responsibility, Collaborative
-🔐 Passionate About Security, Scalability And Clean Code  
-🎯 Motto: "Silent Execution. Reliable Systems."
+Backend developer passionate about building scalable and secure systems using C# and .NET.  
+Focused on clean architecture and silent, effective execution.
+
+- 💡 **Specialization**: Enterprise Backend Development  
+- ⚙️ **Stack**: ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API  
+- 🧠 **Personality**: INTJ-A | Enneagram 5w6 | Choleric–Melancholic  
+- 🤝 **Interpersonal**: Problem Solver, Fast Learner, Critical Thinker, Responsible, Collaborative  
+- 🔐 **Passion**: Security, Scalability, and Clean Code  
+- 🎯 **Motto**: _"Silent Execution. Reliable Systems."_
 
 ---
 
@@ -39,10 +44,10 @@ Focused On Clean Architecture And Silent, Effective Execution..
 
 ### 📦 Selected Projects
 
-| Project       | Technology Stack         | Description                                              |
-|---------------|--------------------------|----------------------------------------------------------|
-| **BulkyBook Web** | ASP.NET MVC, EF Core     | Full-Featured eCommerce Platform With Role-Based Auth & Stripe Integration |
-| *Coming soon* | -                        | More Projects Under Development                           |
+| Project            | Stack                      | Description                                                              |
+|--------------------|----------------------------|--------------------------------------------------------------------------|
+| **BulkyBook Web**  | ASP.NET MVC, EF Core       | Full-featured e-commerce app with role-based auth & Stripe integration   |
+| *More coming soon* | —                          | Several projects currently under development                             |
 
 ---
 
@@ -67,6 +72,5 @@ Focused On Clean Architecture And Silent, Effective Execution..
 
 ### 🧠 Quote
 
-> "Execute Silently. Let Your Work Speak."
+> _"Execute silently. Let your work speak."_
 
-</div>
