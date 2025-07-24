@@ -1,5 +1,8 @@
 <div align="center">
-<h2> .NET Developer (C#, ASP.NET) </h2>
+### <h2> .NET Developer (C#, ASP.NET) </h2>
+
+---
+
 <p><i>INTJ-A | System Thinker | Backend Architect | Silent Executor</i></p>
 
 <p>
