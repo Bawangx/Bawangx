@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Bawangx&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<br/>
-
 ---
 
 ### 🧭 About Me
