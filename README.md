@@ -16,11 +16,11 @@
 Backend Developer Passionate About Building Scalable And Secure Systems Using C# And .NET.<br/>
 Focused On Clean Architecture, Silent And Effective Execution.
 
-💡 **Specialization:** Enterprise Backend Development  
-⚙️ **Stack:** ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API  
-🤝 **Interpersonal:** Problem Solver, Fast Learner, Critical Thinker, Responsible, Collaborative  
-🔐 **Passion:** Security, Scalability, and Clean Code  
-🎯 **Motto:** "Silent Execution. Reliable Systems."
+💡 **Specialization :** Enterprise Backend Development  
+⚙️ **Stack :** ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API  
+🤝 **Interpersonal :** Problem Solver, Fast Learner, Critical Thinker, Responsible, Collaborative  
+🔐 **Passion :** Security, Scalability, and Clean Code  
+🎯 **Motto :** "Silent Execution. Reliable Systems."
 
 ---
 
