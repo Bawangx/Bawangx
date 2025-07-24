@@ -1,6 +1,6 @@
 <div align="center">
 
-### <h2>.NET Developer (C#, ASP.NET)</h2>
+### <h1>.NET Developer (C#, ASP.NET)</h1>
 
 ---
 
