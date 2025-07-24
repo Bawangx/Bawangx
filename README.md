@@ -1,9 +1,9 @@
-<h2 align="center">🧠 Devaa — .NET Developer (C#, ASP.NET)</h2>
-<p align="center">
-  <i>INTJ-A | System Thinker | Backend Architect | Silent Executor</i>
-</p>
+<div align="center">
 
-<p align="center">
+<h2>🧠 Devaa — .NET Developer (C#, ASP.NET)</h2>
+<p><i>INTJ-A | System Thinker | Backend Architect | Silent Executor</i></p>
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=Bawangx&label=Profile+Views&color=0e75b6&style=flat" alt="Bawangx" />
 </p>
 
@@ -13,10 +13,10 @@
 I build backend systems with logic, silence, and precision.  
 My core is C# and .NET — but my mindset is strategy.
 
-- 💡 Focused on enterprise-grade backend development
-- ⚙️ Tech: ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API
-- 🧠 MBTI: INTJ-A | Temperament: Choleric-Melancholic
-- 🔐 Passion for security, scalability, and clean architecture
+- 💡 Focused on enterprise-grade backend development  
+- ⚙️ Tech : ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API  
+- 🧠 Personality : INTJ-A | Enneagram: 5w6 | Temperament: Choleric-Melancholic
+- 🔐 Passion for security, scalability, and clean architecture  
 - 🎯 "No noise. Just systems that work."
 
 ---
@@ -47,7 +47,7 @@ My core is C# and .NET — but my mindset is strategy.
 
 ### 📈 GitHub Analytics
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Bawangx&show_icons=true&theme=tokyonight&hide=prs" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Bawangx&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bawangx&layout=compact&theme=tokyonight" height="150" />
@@ -67,3 +67,5 @@ My core is C# and .NET — but my mindset is strategy.
 ### 🧠 Quote
 
 > "Design systems. Master silence. Let your architecture do the talking."
+
+</div>
