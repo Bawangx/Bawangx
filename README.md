@@ -1,13 +1,14 @@
 <div align="center">
 
 ### <h2> .NET Developer (C#, ASP.NET) </h2>
+
+<br/><br/>
+
 <p><i>INTJ-A | System Thinker | Backend Architect | Silent Executor</i></p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Bawangx&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-<br/>
 
 ---
 
@@ -16,12 +17,12 @@
 Backend developer passionate about building scalable and secure systems using C# and .NET.<br/>
 Focused on clean architecture and silent, effective execution.
 
-- 💡 **Specialization**: Enterprise Backend Development  
-- ⚙️ **Stack**: ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API  
-- 🧠 **Personality**: INTJ-A | Enneagram 5w6 | Choleric–Melancholic  
-- 🤝 **Interpersonal**: Problem Solver, Fast Learner, Critical Thinker, Responsible, Collaborative  
-- 🔐 **Passion**: Security, Scalability, and Clean Code  
-- 🎯 **Motto**: _"Silent Execution. Reliable Systems."_
+- 💡 **Specialization :** Enterprise Backend Development  
+- ⚙️ **Stack :** ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API  
+- 🧠 **Personality :** INTJ-A | Enneagram 5w6 | Choleric–Melancholic  
+- 🤝 **Interpersonal :** Problem Solver, Fast Learner, Critical Thinker, Responsible, Collaborative  
+- 🔐 **Passion :** Security, Scalability, and Clean Code  
+- 🎯 **Motto :** _"Silent Execution. Reliable Systems."_
 
 ---
 
