@@ -1,23 +1,24 @@
 <div align="center">
 
-<h2>🧠 Devaa — .NET Developer (C#, ASP.NET)</h2>
-<p><i>INTJ-A | System Thinker | Backend Architect | Silent Executor</i></p>
+<h2>🧠 .NET Developer (C#, ASP.NET)</h2>
+<p><i>INTJ-A | System Thinker | Backend Architect</i></p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Bawangx&label=Profile+Views&color=0e75b6&style=flat" alt="Bawangx" />
+  <img src="https://komarev.com/ghpvc/?username=Bawangx&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🧭 About Me
-I build backend systems with logic, silence, and precision.  
-My core is C# and .NET — but my mindset is strategy.
+Backend Developer Passionate About Building Scalable, Secure Systems Using C# And .NET.  
+Focused On Clean Architecture And Silent, Effective Execution..
 
-- 💡 Focused on enterprise-grade backend development  
-- ⚙️ Tech : ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API  
-- 🧠 Personality : INTJ-A | Enneagram: 5w6 | Temperament: Choleric-Melancholic
-- 🔐 Passion for security, scalability, and clean architecture  
-- 🎯 "No noise. Just systems that work."
+💡 Specializing In Enterprise Backend Development  
+⚙️ Technologies : ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API  
+🧠 Personality : INTJ-A | Enneagram : 5w6 | Temperament : Choleric-Melancholic
+🎯 Interpersonal : Problem Solver, Fast Learner, Responsibility, Collaborative
+🔐 Passionate About Security, Scalability And Clean Code  
+🎯 Motto: "Silent Execution. Reliable Systems."
 
 ---
 
@@ -36,26 +37,22 @@ My core is C# and .NET — but my mindset is strategy.
 
 ---
 
-### 📦 Highlight Projects
+### 📦 Selected Projects
 
-| Project       | Stack                    | Description                                              |
+| Project       | Technology Stack         | Description                                              |
 |---------------|--------------------------|----------------------------------------------------------|
-| **BulkyBook** | ASP.NET MVC + EF Core    | Full eCommerce platform with role-based auth & Stripe API |
-| *More soon...*| -                        | More strategic systems underway — stay tuned.            |
+| **BulkyBook Web** | ASP.NET MVC, EF Core     | Full-Featured eCommerce Platform With Role-Based Auth & Stripe Integration |
+| *Coming soon* | -                        | More Projects Under Development                           |
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 GitHub Stats
 
-<!-- Total stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Bawangx&show_icons=true&theme=tokyonight&hide=prs" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bawangx&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" />
 
-<!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Bawangx&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Bawangx&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bawangx&layout=compact&theme=tokyonight" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bawangx&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 ---
 
@@ -70,6 +67,6 @@ My core is C# and .NET — but my mindset is strategy.
 
 ### 🧠 Quote
 
-> "Design systems. Master silence. Let your architecture do the talking."
+> "Execute Silently. Let Your Work Speak."
 
 </div>
