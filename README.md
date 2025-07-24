@@ -1,20 +1,17 @@
 <div align="center">
 
-<h2>.NET Developer (C#, ASP.NET)</h2>
----
+<h2>🧠 .NET Developer (C#, ASP.NET)</h2>
 <p><i>INTJ-A | System Thinker | Backend Architect | Silent Executor</i></p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Bawangx&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-</div>
-
 ---
 
 ### 🧭 About Me
 
-Backend developer passionate about building scalable and secure systems using C# and .NET.  
+Backend developer passionate about building scalable and secure systems using C# and .NET.<br/>
 Focused on clean architecture and silent, effective execution.
 
 - 💡 **Specialization**: Enterprise Backend Development  
@@ -43,10 +40,27 @@ Focused on clean architecture and silent, effective execution.
 
 ### 📦 Selected Projects
 
-| Project            | Stack                      | Description                                                              |
-|--------------------|----------------------------|--------------------------------------------------------------------------|
-| **BulkyBook Web**  | ASP.NET MVC, EF Core       | Full-featured e-commerce app with role-based auth & Stripe integration   |
-| *More coming soon* | —                          | Several projects currently under development                             |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Stack</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BulkyBook Web</b></td>
+      <td>ASP.NET MVC, EF Core</td>
+      <td>Full-featured e-commerce app with role-based auth & Stripe integration</td>
+    </tr>
+    <tr>
+      <td><i>More coming soon</i></td>
+      <td>—</td>
+      <td>Several projects currently under development</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -65,11 +79,4 @@ Focused on clean architecture and silent, effective execution.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devawpxx)  
 [![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail)](mailto:devawpxx@gmail.com)  
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id-or-invite)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/devawpxx)
-
----
-
-### 🧠 Quote
-
-> _"Execute silently. Let your work speak."_
-
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)]
