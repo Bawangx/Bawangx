@@ -1,23 +1,89 @@
-<h1 align="center">Hi 👋, I'm Devaa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bawangx&label=Profile%20views&color=0e75b6&style=flat" alt="bawangx" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bawangx" alt="bawangx" /></a> </p>
+<h2>🧠 .NET Developer (C#, ASP.NET)</h2>
+<p><i>INTJ-A | System Thinker | Backend Architect | Silent Executor</i></p>
 
-- 🌱 I’m Currently Learning **.NET Core MVC**
-
-- 📫 How To Reach Me **devawpxx@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/devawpxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/devawpxx" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/devawpxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/devawpxx" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Bawangx&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bawangx&show_icons=true&locale=en&layout=compact" alt="bawangx" /></p>
+### 🧭 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bawangx&show_icons=true&locale=en" alt="bawangx" /></p>
+Backend developer passionate about building scalable and secure systems using C# and .NET.<br/>
+Focused on clean architecture and silent, effective execution.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bawangx&" alt="bawangx" /></p>
+- 💡 **Specialization**: Enterprise Backend Development  
+- ⚙️ **Stack**: ASP.NET Core MVC, EF Core, SQL Server, MySQL, Stripe API  
+- 🧠 **Personality**: INTJ-A | Enneagram 5w6 | Choleric–Melancholic  
+- 🤝 **Interpersonal**: Problem Solver, Fast Learner, Critical Thinker, Responsible, Collaborative  
+- 🔐 **Passion**: Security, Scalability, and Clean Code  
+- 🎯 **Motto**: _"Silent Execution. Reliable Systems."_
+
+---
+
+### 🛠️ Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=flat&logo=.net)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-1FB6FF?style=flat&logo=sendgrid&logoColor=white)
+
+---
+
+### 📦 Selected Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Stack</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BulkyBook Web</b></td>
+      <td>ASP.NET MVC, EF Core</td>
+      <td>Full-featured e-commerce app with role-based auth & Stripe integration</td>
+    </tr>
+    <tr>
+      <td><i>More coming soon</i></td>
+      <td>—</td>
+      <td>Several projects currently under development</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bawangx&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Bawangx&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bawangx&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devawpxx)  
+[![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail)](mailto:devawpxx@gmail.com)   
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/devawpxx)
+
+---
+
+### 🧠 Quote
+
+> _"Execute silently. Let your work speak."_
+
+</div>
